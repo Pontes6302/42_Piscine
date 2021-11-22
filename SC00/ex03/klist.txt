@@ -1,0 +1,5 @@
+Credentials cache: API:64DEAD81-5E96-4654-A791-861BF33130D4
+        Principal: sifreita@42LISBOA.COM
+
+  Issued                Expires               Principal
+Aug  2 17:03:55 2021  Aug  3 03:03:55 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
